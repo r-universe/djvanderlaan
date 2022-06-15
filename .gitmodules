@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "LaF"]
+	path = LaF
+	url = https://github.com/djvanderlaan/laf
+	shallow = true
+	registered = true
+[submodule "ldat"]
+	path = ldat
+	url = https://github.com/djvanderlaan/ldat
+	shallow = true
+	registered = true
+[submodule "lvec"]
+	path = lvec
+	url = https://github.com/djvanderlaan/lvec
+	shallow = true
+	registered = true
+[submodule "reclin"]
+	path = reclin
+	url = https://github.com/djvanderlaan/reclin
+	shallow = true
+	registered = true
+[submodule "reclin2"]
+	path = reclin2
+	url = https://github.com/djvanderlaan/reclin2
+	shallow = true
+	registered = true
+[submodule "simplermarkdown"]
+	path = simplermarkdown
+	url = https://github.com/djvanderlaan/simplermarkdown
+	shallow = true
+	registered = true
