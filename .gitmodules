@@ -13,11 +13,6 @@
 	url = https://github.com/djvanderlaan/ldat
 	shallow = true
 	registered = true
-[submodule "lvec"]
-	path = lvec
-	url = https://github.com/djvanderlaan/lvec
-	shallow = true
-	registered = true
 [submodule "reclin"]
 	path = reclin
 	url = https://github.com/djvanderlaan/reclin
