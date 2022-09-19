@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "lvec",
+    "oncran": true
+  },
+  {
     "package": "reclin",
     "oncran": true
   },
