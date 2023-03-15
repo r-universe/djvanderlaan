@@ -1,18 +1,6 @@
 [
   {
-    "package": "reclin",
-    "oncran": true
-  },
-  {
     "package": "LaF",
-    "oncran": true
-  },
-  {
-    "package": "simplermarkdown",
-    "oncran": true
-  },
-  {
-    "package": "reclin2",
     "oncran": true
   },
   {
@@ -21,6 +9,18 @@
   },
   {
     "package": "lvec",
+    "oncran": true
+  },
+  {
+    "package": "reclin",
+    "oncran": true
+  },
+  {
+    "package": "reclin2",
+    "oncran": true
+  },
+  {
+    "package": "simplermarkdown",
     "oncran": true
   }
 ]
