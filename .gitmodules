@@ -5,6 +5,9 @@
 [submodule "LaF"]
 	path = LaF
 	url = https://github.com/djvanderlaan/laf
+[submodule "datapackage"]
+	path = datapackage
+	url = https://github.com/djvanderlaan/datapackage
 [submodule "reclin2"]
 	path = reclin2
 	url = https://github.com/djvanderlaan/reclin2
