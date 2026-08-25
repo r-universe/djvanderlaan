@@ -14,3 +14,6 @@
 [submodule "simplermarkdown"]
 	path = simplermarkdown
 	url = https://github.com/djvanderlaan/simplermarkdown
+[submodule "terminalgraphics"]
+	path = terminalgraphics
+	url = https://codeberg.org/djvanderlaan/terminalgraphics
